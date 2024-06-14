@@ -1,0 +1,14 @@
+[project]
+name = ""
+description = "Nodes:visual_anagrams_sample, visual_anagrams_animate"
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = ""
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-AIT"
+Icon = ""
